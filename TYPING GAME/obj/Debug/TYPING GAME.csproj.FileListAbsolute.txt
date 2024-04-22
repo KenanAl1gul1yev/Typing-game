@@ -1,0 +1,21 @@
+C:\Users\user\Documents\C# works\TYPING GAME\TYPING GAME\bin\Debug\TYPING GAME.exe.config
+C:\Users\user\Documents\C# works\TYPING GAME\TYPING GAME\bin\Debug\TYPING GAME.exe
+C:\Users\user\Documents\C# works\TYPING GAME\TYPING GAME\bin\Debug\TYPING GAME.pdb
+C:\Users\user\Documents\C# works\TYPING GAME\TYPING GAME\obj\Debug\TYPING GAME.csproj.AssemblyReference.cache
+C:\Users\user\Documents\C# works\TYPING GAME\TYPING GAME\obj\Debug\TYPING GAME.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\C# works\TYPING GAME\TYPING GAME\obj\Debug\TYPING_GAME.Form1.resources
+C:\Users\user\Documents\C# works\TYPING GAME\TYPING GAME\obj\Debug\TYPING_GAME.Properties.Resources.resources
+C:\Users\user\Documents\C# works\TYPING GAME\TYPING GAME\obj\Debug\TYPING GAME.csproj.GenerateResource.cache
+C:\Users\user\Documents\C# works\TYPING GAME\TYPING GAME\obj\Debug\TYPING GAME.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\C# works\TYPING GAME\TYPING GAME\obj\Debug\TYPING GAME.exe
+C:\Users\user\Documents\C# works\TYPING GAME\TYPING GAME\obj\Debug\TYPING GAME.pdb
+C:\Users\user\OneDrive\Documents\C# works\TYPING GAME\TYPING GAME\bin\Debug\TYPING GAME.exe.config
+C:\Users\user\OneDrive\Documents\C# works\TYPING GAME\TYPING GAME\bin\Debug\TYPING GAME.exe
+C:\Users\user\OneDrive\Documents\C# works\TYPING GAME\TYPING GAME\bin\Debug\TYPING GAME.pdb
+C:\Users\user\OneDrive\Documents\C# works\TYPING GAME\TYPING GAME\obj\Debug\TYPING GAME.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Documents\C# works\TYPING GAME\TYPING GAME\obj\Debug\TYPING_GAME.Form1.resources
+C:\Users\user\OneDrive\Documents\C# works\TYPING GAME\TYPING GAME\obj\Debug\TYPING_GAME.Properties.Resources.resources
+C:\Users\user\OneDrive\Documents\C# works\TYPING GAME\TYPING GAME\obj\Debug\TYPING GAME.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Documents\C# works\TYPING GAME\TYPING GAME\obj\Debug\TYPING GAME.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Documents\C# works\TYPING GAME\TYPING GAME\obj\Debug\TYPING GAME.exe
+C:\Users\user\OneDrive\Documents\C# works\TYPING GAME\TYPING GAME\obj\Debug\TYPING GAME.pdb
